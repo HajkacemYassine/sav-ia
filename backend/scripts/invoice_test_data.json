@@ -1,0 +1,650 @@
+{
+  "invoices": [
+    {
+      "_id": "INV-2024-000001",
+      "reference": "INV-2024-000001",
+      "status": "VALIDATED",
+      "issueDate": "2024-03-15",
+      "dueDate": "2024-04-15",
+      "currency": "EUR",
+      "organization": {
+        "code": "LM_IT",
+        "label": "Leroy Merlin Italia"
+      },
+      "customer": {
+        "reference": "CUST-IT-00123",
+        "type": "PRIVATE_INDIVIDUAL",
+        "gender": "MR",
+        "firstName": "Giuseppe",
+        "lastName": "Rossi",
+        "contact": {
+          "email": "giuseppe.rossi@example.it",
+          "phoneNumber": "0320000000",
+          "mobileNumber": "3399000000"
+        },
+        "addresses": [
+          {
+            "type": "BILLING",
+            "address": "Via Roma 15",
+            "city": "Milano",
+            "zipCode": "20100",
+            "countryCode": "IT",
+            "countryName": "Italia"
+          },
+          {
+            "type": "SHIPPING",
+            "address": "Via Roma 15",
+            "city": "Milano",
+            "zipCode": "20100",
+            "countryCode": "IT",
+            "countryName": "Italia"
+          }
+        ]
+      },
+      "site": {
+        "code": "IT001",
+        "name": "LEROY MERLIN ROMA CENTRO"
+      },
+      "lines": [
+        {
+          "lineNumber": 1,
+          "product": {
+            "code": "82428763",
+            "label": "COMPRESSORE SILEN 50L 2.6HP 2MOT STANLEY",
+            "brand": "044368",
+            "codeEAN": "8016738771527",
+            "imageUrl": "https://media.adeo.com/media/558724/?width=500&height=500&fit=bounds",
+            "weight": 39.4,
+            "repairable": true,
+            "afterSalesEligible": true,
+            "warranty": { "duration": 2, "durationUnitEnum": "YEARS" },
+            "families": [
+              { "code": "04", "label": "UTENSILERIA", "type": "FAMILY" },
+              { "code": "0406", "label": "EQUIPAGGIAMENTO DA LABORAT.", "type": "SUB_FAMILY" },
+              { "code": "040635", "label": "COMPRESSORI", "type": "TYPE" },
+              { "code": "04063510", "label": "COMPRESSORI FINO A 50LT", "type": "SUB_TYPE" }
+            ],
+            "supplier": {
+              "code": "201085",
+              "label": "FNA S.P.A. (X-DOCK)",
+              "contact": { "email": "fornitori@fna.it", "phoneNumber": "0119233000" },
+              "address": {
+                "address": "EINAUDI 6",
+                "city": "ROBASSOMERO",
+                "zipCode": "10070",
+                "countryCode": "IT"
+              }
+            }
+          },
+          "quantity": 2,
+          "unitPrice": { "value": 399.0, "currency": "EUR" },
+          "vat": { "rate": "22.0", "standard": true },
+          "discount": "0",
+          "totalPriceExclTax": { "value": 798.0, "currency": "EUR" },
+          "totalVatAmount": { "value": 175.56, "currency": "EUR" },
+          "totalPriceInclTax": { "value": 973.56, "currency": "EUR" },
+          "underWarranty": false,
+          "endOfWarrantyDate": null
+        },
+        {
+          "lineNumber": 2,
+          "product": {
+            "code": "17883575",
+            "label": "TRAP AVV 18V 1.3AH 2BL VAL BS 18",
+            "brand": "045730",
+            "codeEAN": "4007430274960",
+            "imageUrl": null,
+            "weight": 1.3,
+            "repairable": true,
+            "afterSalesEligible": true,
+            "warranty": { "duration": 2, "durationUnitEnum": "YEARS" },
+            "families": [
+              { "code": "04", "label": "UTENSILERIA", "type": "FAMILY" },
+              { "code": "0403", "label": "ELETTROUTENSILI", "type": "SUB_FAMILY" },
+              { "code": "040305", "label": "TRAPANI E AVVITATORI BATTERIA", "type": "TYPE" },
+              { "code": "04030505", "label": "TRAPANI AVVITATORI", "type": "SUB_TYPE" }
+            ],
+            "supplier": {
+              "code": "200522",
+              "label": "***CARLO STECHEL&FIGLI XD",
+              "contact": { "email": "info@stechelfigli.it", "phoneNumber": "+390252777205" },
+              "address": {
+                "address": "VIA ACHILLE GRANDI 8",
+                "city": "SAN DONATO MILANESE",
+                "zipCode": "20097",
+                "countryCode": "IT"
+              }
+            }
+          },
+          "quantity": 2,
+          "unitPrice": { "value": 179.9, "currency": "EUR" },
+          "vat": { "rate": "22.0", "standard": true },
+          "discount": "0",
+          "totalPriceExclTax": { "value": 359.8, "currency": "EUR" },
+          "totalVatAmount": { "value": 79.16, "currency": "EUR" },
+          "totalPriceInclTax": { "value": 438.96, "currency": "EUR" },
+          "underWarranty": false,
+          "endOfWarrantyDate": null
+        },
+        {
+          "lineNumber": 3,
+          "product": {
+            "code": "82116329",
+            "label": "QUADRA LED 80X60 RETROILLUMINATO LED",
+            "brand": "NA",
+            "codeEAN": "8050148953975",
+            "imageUrl": "https://media.adeo.com/media/532217/?width=500&height=500&fit=bounds",
+            "weight": 6.8,
+            "repairable": false,
+            "afterSalesEligible": true,
+            "warranty": { "duration": 2, "durationUnitEnum": "YEARS" },
+            "families": [
+              { "code": "07", "label": "BAGNO", "type": "FAMILY" },
+              { "code": "0705", "label": "SPECCHI,SPECCHIERE,COMPLEMENTA", "type": "SUB_FAMILY" },
+              { "code": "070510", "label": "SPECCHI DECORATIVI", "type": "TYPE" },
+              { "code": "07051012", "label": "MODERNI RETROILLUMINATI", "type": "SUB_TYPE" }
+            ],
+            "supplier": {
+              "code": "908241",
+              "label": "ETRUSCA ITALIA SRL",
+              "contact": { "email": "info@etruscaitalia.it", "phoneNumber": "+393452916969" },
+              "address": {
+                "address": "LOCALITA PIANSENESE",
+                "city": "COLLE DI VAL D'ELSA",
+                "zipCode": "53034",
+                "countryCode": "IT"
+              }
+            }
+          },
+          "quantity": 3,
+          "unitPrice": { "value": 149.0, "currency": "EUR" },
+          "vat": { "rate": "22.0", "standard": true },
+          "discount": "0",
+          "totalPriceExclTax": { "value": 447.0, "currency": "EUR" },
+          "totalVatAmount": { "value": 98.34, "currency": "EUR" },
+          "totalPriceInclTax": { "value": 545.34, "currency": "EUR" },
+          "underWarranty": false,
+          "endOfWarrantyDate": null
+        },
+        {
+          "lineNumber": 4,
+          "product": {
+            "code": "17882270",
+            "label": "SPECCHIO UNIKE 80X80X20 PERLA",
+            "brand": "201788",
+            "codeEAN": "8434006810233",
+            "imageUrl": "https://media.adeo.com/media/1671405/?width=500&height=500&fit=bounds",
+            "weight": 5.3,
+            "repairable": null,
+            "afterSalesEligible": true,
+            "warranty": { "duration": 3, "durationUnitEnum": "YEARS" },
+            "families": [
+              { "code": "07", "label": "BAGNO", "type": "FAMILY" },
+              { "code": "0706", "label": "MOBILI DA BAGNO MODULABILI", "type": "SUB_FAMILY" },
+              { "code": "070607", "label": "NEO-CLASSIC", "type": "TYPE" },
+              { "code": "07060703", "label": "UNIKE", "type": "SUB_TYPE" }
+            ],
+            "supplier": {
+              "code": "204220",
+              "label": "VISOBATH S.L. X-DOCK",
+              "contact": { "email": "contact@visobath.es", "phoneNumber": "+34957509172" },
+              "address": {
+                "address": "CTRA. CORDOBA-MALAGAKM68.4",
+                "city": "LUCERNA",
+                "zipCode": "14900",
+                "countryCode": "ES"
+              }
+            }
+          },
+          "quantity": 5,
+          "unitPrice": { "value": 73.0, "currency": "EUR" },
+          "vat": { "rate": "22.0", "standard": true },
+          "discount": "0",
+          "totalPriceExclTax": { "value": 365.0, "currency": "EUR" },
+          "totalVatAmount": { "value": 80.3, "currency": "EUR" },
+          "totalPriceInclTax": { "value": 445.3, "currency": "EUR" },
+          "underWarranty": false,
+          "endOfWarrantyDate": null
+        },
+        {
+          "lineNumber": 5,
+          "product": {
+            "code": "13759091",
+            "label": "CAT.KOMAR A LA ROSE 368X254",
+            "brand": "216593",
+            "codeEAN": "2000137590915",
+            "imageUrl": "https://media.adeo.com/media/1464977/?width=500&height=500&fit=bounds",
+            "weight": 1.112,
+            "repairable": null,
+            "afterSalesEligible": true,
+            "warranty": { "duration": 2, "durationUnitEnum": "YEARS" },
+            "families": [
+              { "code": "12", "label": "DECORAZIONE", "type": "FAMILY" },
+              { "code": "1210", "label": "CARTA DA PARATI", "type": "SUB_FAMILY" },
+              { "code": "121070", "label": "PANNELLI MURALI", "type": "TYPE" },
+              { "code": "12107002", "label": "FOTOMURALE SU ORDINAZIONE", "type": "SUB_TYPE" }
+            ],
+            "supplier": {
+              "code": "201455",
+              "label": "FRASCA CARTE DA PARATI SRL",
+              "contact": { "email": "ordini@frascacarte.it", "phoneNumber": "062251345" },
+              "address": {
+                "address": "VIA RINA MONTI 10",
+                "city": "ROMA",
+                "zipCode": "00155",
+                "countryCode": "IT"
+              }
+            }
+          },
+          "quantity": 3,
+          "unitPrice": { "value": 104.9, "currency": "EUR" },
+          "vat": { "rate": "22.0", "standard": true },
+          "discount": "0",
+          "totalPriceExclTax": { "value": 314.7, "currency": "EUR" },
+          "totalVatAmount": { "value": 69.23, "currency": "EUR" },
+          "totalPriceInclTax": { "value": 383.93, "currency": "EUR" },
+          "underWarranty": false,
+          "endOfWarrantyDate": null
+        }
+      ],
+      "totals": {
+        "totalLines": 5,
+        "totalQuantity": 15,
+        "totalPriceExclTax": { "value": 2284.5, "currency": "EUR" },
+        "totalVatAmount": { "value": 502.59, "currency": "EUR" },
+        "totalPriceInclTax": { "value": 2787.09, "currency": "EUR" }
+      },
+      "payment": {
+        "method": "CARD",
+        "status": "PAID",
+        "paidAt": "2024-03-15T10:42:00.000Z",
+        "reference": "PAY-2024-IT-000123"
+      },
+      "createdAt": "2024-03-15T10:40:00.000Z",
+      "updatedAt": "2024-03-15T10:42:00.000Z"
+    },
+    {
+      "_id": "INV-2024-000002",
+      "reference": "INV-2024-000002",
+      "status": "VALIDATED",
+      "issueDate": "2024-06-20",
+      "dueDate": "2024-07-20",
+      "currency": "EUR",
+      "organization": {
+        "code": "LM_FR",
+        "label": "Leroy Merlin France"
+      },
+      "customer": {
+        "reference": "CUST-FR-00456",
+        "type": "PRIVATE_INDIVIDUAL",
+        "gender": "MME",
+        "firstName": "Marie",
+        "lastName": "Dubois",
+        "contact": {
+          "email": "marie.dubois@example.fr",
+          "phoneNumber": "0123456789",
+          "mobileNumber": "0612345678"
+        },
+        "addresses": [
+          {
+            "type": "BILLING",
+            "address": "15 Rue de la Paix",
+            "city": "Paris",
+            "zipCode": "75002",
+            "countryCode": "FR",
+            "countryName": "France"
+          },
+          {
+            "type": "SHIPPING",
+            "address": "15 Rue de la Paix",
+            "city": "Paris",
+            "zipCode": "75002",
+            "countryCode": "FR",
+            "countryName": "France"
+          }
+        ]
+      },
+      "site": {
+        "code": "FR042",
+        "name": "LEROY MERLIN PARIS BASTILLE"
+      },
+      "lines": [
+        {
+          "lineNumber": 1,
+          "product": {
+            "code": "36228241",
+            "label": "LAVE-LINGE HUBLOT 8KG 1400TRS SILENCIEUX",
+            "brand": "WHIRLPOOL",
+            "codeEAN": "3439934567890",
+            "imageUrl": null,
+            "weight": 72.0,
+            "repairable": true,
+            "afterSalesEligible": true,
+            "warranty": { "duration": 2, "durationUnitEnum": "YEARS" },
+            "families": [
+              { "code": "01", "label": "ELECTROMENAGER", "type": "FAMILY" },
+              { "code": "0101", "label": "LAVAGE", "type": "SUB_FAMILY" },
+              { "code": "010105", "label": "LAVE-LINGE HUBLOT", "type": "TYPE" }
+            ],
+            "supplier": {
+              "code": "300456",
+              "label": "WHIRLPOOL FRANCE SAS",
+              "contact": { "email": "sav@whirlpool.fr", "phoneNumber": "0178456789" },
+              "address": {
+                "address": "1 RUE DES USINES",
+                "city": "AMIENS",
+                "zipCode": "80000",
+                "countryCode": "FR"
+              }
+            }
+          },
+          "quantity": 1,
+          "unitPrice": { "value": 549.0, "currency": "EUR" },
+          "vat": { "rate": "20.0", "standard": true },
+          "discount": "0",
+          "totalPriceExclTax": { "value": 549.0, "currency": "EUR" },
+          "totalVatAmount": { "value": 109.8, "currency": "EUR" },
+          "totalPriceInclTax": { "value": 658.8, "currency": "EUR" },
+          "underWarranty": true,
+          "endOfWarrantyDate": "2026-06-20"
+        },
+        {
+          "lineNumber": 2,
+          "product": {
+            "code": "39172218",
+            "label": "SÈCHE-LINGE CONDENSATION 8KG",
+            "brand": "WHIRLPOOL",
+            "codeEAN": "3439934567906",
+            "imageUrl": null,
+            "weight": 45.0,
+            "repairable": true,
+            "afterSalesEligible": true,
+            "warranty": { "duration": 2, "durationUnitEnum": "YEARS" },
+            "families": [
+              { "code": "01", "label": "ELECTROMENAGER", "type": "FAMILY" },
+              { "code": "0101", "label": "LAVAGE", "type": "SUB_FAMILY" },
+              { "code": "010110", "label": "SÈCHE-LINGE", "type": "TYPE" }
+            ],
+            "supplier": {
+              "code": "300456",
+              "label": "WHIRLPOOL FRANCE SAS",
+              "contact": { "email": "sav@whirlpool.fr", "phoneNumber": "0178456789" },
+              "address": {
+                "address": "1 RUE DES USINES",
+                "city": "AMIENS",
+                "zipCode": "80000",
+                "countryCode": "FR"
+              }
+            }
+          },
+          "quantity": 1,
+          "unitPrice": { "value": 429.0, "currency": "EUR" },
+          "vat": { "rate": "20.0", "standard": true },
+          "discount": "0",
+          "totalPriceExclTax": { "value": 429.0, "currency": "EUR" },
+          "totalVatAmount": { "value": 85.8, "currency": "EUR" },
+          "totalPriceInclTax": { "value": 514.8, "currency": "EUR" },
+          "underWarranty": true,
+          "endOfWarrantyDate": "2026-06-20"
+        }
+      ],
+      "totals": {
+        "totalLines": 2,
+        "totalQuantity": 2,
+        "totalPriceExclTax": { "value": 978.0, "currency": "EUR" },
+        "totalVatAmount": { "value": 195.6, "currency": "EUR" },
+        "totalPriceInclTax": { "value": 1173.6, "currency": "EUR" }
+      },
+      "payment": {
+        "method": "CARD",
+        "status": "PAID",
+        "paidAt": "2024-06-20T14:30:00.000Z",
+        "reference": "PAY-2024-FR-000456"
+      },
+      "createdAt": "2024-06-20T14:25:00.000Z",
+      "updatedAt": "2024-06-20T14:30:00.000Z"
+    },
+    {
+      "_id": "INV-2024-000003",
+      "reference": "INV-2024-000003",
+      "status": "VALIDATED",
+      "issueDate": "2024-09-05",
+      "dueDate": "2024-10-05",
+      "currency": "EUR",
+      "organization": {
+        "code": "LM_FR",
+        "label": "Leroy Merlin France"
+      },
+      "customer": {
+        "reference": "CUST-FR-00789",
+        "type": "PRIVATE_INDIVIDUAL",
+        "gender": "MR",
+        "firstName": "Thomas",
+        "lastName": "Petit",
+        "contact": {
+          "email": "thomas.petit@example.fr",
+          "phoneNumber": "0478563421",
+          "mobileNumber": "0623456789"
+        },
+        "addresses": [
+          {
+            "type": "BILLING",
+            "address": "8 Avenue Jean Jaurès",
+            "city": "Lyon",
+            "zipCode": "69007",
+            "countryCode": "FR",
+            "countryName": "France"
+          },
+          {
+            "type": "SHIPPING",
+            "address": "8 Avenue Jean Jaurès",
+            "city": "Lyon",
+            "zipCode": "69007",
+            "countryCode": "FR",
+            "countryName": "France"
+          }
+        ]
+      },
+      "site": {
+        "code": "FR069",
+        "name": "LEROY MERLIN LYON PART-DIEU"
+      },
+      "lines": [
+        {
+          "lineNumber": 1,
+          "product": {
+            "code": "83342715",
+            "label": "RÉFRIGÉRATEUR AMÉRICAIN 600L NOIR",
+            "brand": "SAMSUNG",
+            "codeEAN": "8806094561230",
+            "imageUrl": null,
+            "weight": 95.0,
+            "repairable": true,
+            "afterSalesEligible": true,
+            "warranty": { "duration": 5, "durationUnitEnum": "YEARS" },
+            "families": [
+              { "code": "01", "label": "ELECTROMENAGER", "type": "FAMILY" },
+              { "code": "0102", "label": "FROID", "type": "SUB_FAMILY" },
+              { "code": "010205", "label": "RÉFRIGÉRATEUR AMÉRICAIN", "type": "TYPE" }
+            ],
+            "supplier": {
+              "code": "700123",
+              "label": "SAMSUNG ELECTRONICS FRANCE",
+              "contact": { "email": "sav@samsung.fr", "phoneNumber": "0178901234" },
+              "address": {
+                "address": "125 RUE DE L'UNIVERSITÉ",
+                "city": "PARIS",
+                "zipCode": "75007",
+                "countryCode": "FR"
+              }
+            }
+          },
+          "quantity": 1,
+          "unitPrice": { "value": 1299.0, "currency": "EUR" },
+          "vat": { "rate": "20.0", "standard": true },
+          "discount": "50.0",
+          "totalPriceExclTax": { "value": 1249.0, "currency": "EUR" },
+          "totalVatAmount": { "value": 249.8, "currency": "EUR" },
+          "totalPriceInclTax": { "value": 1498.8, "currency": "EUR" },
+          "underWarranty": true,
+          "endOfWarrantyDate": "2029-09-05"
+        }
+      ],
+      "totals": {
+        "totalLines": 1,
+        "totalQuantity": 1,
+        "totalPriceExclTax": { "value": 1249.0, "currency": "EUR" },
+        "totalVatAmount": { "value": 249.8, "currency": "EUR" },
+        "totalPriceInclTax": { "value": 1498.8, "currency": "EUR" }
+      },
+      "payment": {
+        "method": "TRANSFER",
+        "status": "PAID",
+        "paidAt": "2024-09-05T09:15:00.000Z",
+        "reference": "PAY-2024-FR-000789"
+      },
+      "createdAt": "2024-09-05T09:10:00.000Z",
+      "updatedAt": "2024-09-05T09:15:00.000Z"
+    },
+    {
+      "_id": "INV-2024-000004",
+      "reference": "INV-2024-000004",
+      "status": "VALIDATED",
+      "issueDate": "2024-11-12",
+      "dueDate": "2024-12-12",
+      "currency": "EUR",
+      "organization": {
+        "code": "LM_FR",
+        "label": "Leroy Merlin France"
+      },
+      "customer": {
+        "reference": "CUST-FR-00123",
+        "type": "PRIVATE_INDIVIDUAL",
+        "gender": "MME",
+        "firstName": "Sophie",
+        "lastName": "Martin",
+        "contact": {
+          "email": "sophie.martin@example.fr",
+          "phoneNumber": "0491345678",
+          "mobileNumber": "0645678901"
+        },
+        "addresses": [
+          {
+            "type": "BILLING",
+            "address": "42 Rue de la Canebière",
+            "city": "Marseille",
+            "zipCode": "13001",
+            "countryCode": "FR",
+            "countryName": "France"
+          },
+          {
+            "type": "SHIPPING",
+            "address": "42 Rue de la Canebière",
+            "city": "Marseille",
+            "zipCode": "13001",
+            "countryCode": "FR",
+            "countryName": "France"
+          }
+        ]
+      },
+      "site": {
+        "code": "FR013",
+        "name": "LEROY MERLIN MARSEILLE GRAND LITTORAL"
+      },
+      "lines": [
+        {
+          "lineNumber": 1,
+          "product": {
+            "code": "27834491",
+            "label": "MACHINE À CAFÉ GRAIN EXPRESSO BROYEUR",
+            "brand": "DELONGHI",
+            "codeEAN": "8004399321456",
+            "imageUrl": null,
+            "weight": 9.5,
+            "repairable": true,
+            "afterSalesEligible": true,
+            "warranty": { "duration": 3, "durationUnitEnum": "YEARS" },
+            "families": [
+              { "code": "01", "label": "ELECTROMENAGER", "type": "FAMILY" },
+              { "code": "0104", "label": "PETIT ÉLECTROMÉNAGER", "type": "SUB_FAMILY" },
+              { "code": "010410", "label": "MACHINE À CAFÉ", "type": "TYPE" }
+            ],
+            "supplier": {
+              "code": "400789",
+              "label": "DELONGHI FRANCE SAS",
+              "contact": { "email": "sav@delonghi.fr", "phoneNumber": "0145678901" },
+              "address": {
+                "address": "25 RUE DES ENTREPRENEURS",
+                "city": "VINCENNES",
+                "zipCode": "94300",
+                "countryCode": "FR"
+              }
+            }
+          },
+          "quantity": 1,
+          "unitPrice": { "value": 399.0, "currency": "EUR" },
+          "vat": { "rate": "20.0", "standard": true },
+          "discount": "0",
+          "totalPriceExclTax": { "value": 399.0, "currency": "EUR" },
+          "totalVatAmount": { "value": 79.8, "currency": "EUR" },
+          "totalPriceInclTax": { "value": 478.8, "currency": "EUR" },
+          "underWarranty": false,
+          "endOfWarrantyDate": null
+        },
+        {
+          "lineNumber": 2,
+          "product": {
+            "code": "99123456",
+            "label": "LAMPE SUR PIED DESIGN LED 150W",
+            "brand": "ADEO",
+            "codeEAN": "3601234567890",
+            "imageUrl": null,
+            "weight": 3.2,
+            "repairable": false,
+            "afterSalesEligible": false,
+            "warranty": { "duration": 2, "durationUnitEnum": "YEARS" },
+            "families": [
+              { "code": "06", "label": "LUMINAIRE", "type": "FAMILY" },
+              { "code": "0603", "label": "LAMPE SUR PIED", "type": "SUB_FAMILY" }
+            ],
+            "supplier": {
+              "code": "500001",
+              "label": "ADEO SERVICES FRANCE",
+              "contact": { "email": "fournisseurs@adeo.com", "phoneNumber": "0320000000" },
+              "address": {
+                "address": "135 RUE SADI CARNOT",
+                "city": "RONCHIN",
+                "zipCode": "59790",
+                "countryCode": "FR"
+              }
+            }
+          },
+          "quantity": 2,
+          "unitPrice": { "value": 89.0, "currency": "EUR" },
+          "vat": { "rate": "20.0", "standard": true },
+          "discount": "0",
+          "totalPriceExclTax": { "value": 178.0, "currency": "EUR" },
+          "totalVatAmount": { "value": 35.6, "currency": "EUR" },
+          "totalPriceInclTax": { "value": 213.6, "currency": "EUR" },
+          "underWarranty": false,
+          "endOfWarrantyDate": null
+        }
+      ],
+      "totals": {
+        "totalLines": 2,
+        "totalQuantity": 3,
+        "totalPriceExclTax": { "value": 577.0, "currency": "EUR" },
+        "totalVatAmount": { "value": 115.4, "currency": "EUR" },
+        "totalPriceInclTax": { "value": 692.4, "currency": "EUR" }
+      },
+      "payment": {
+        "method": "CARD",
+        "status": "PAID",
+        "paidAt": "2024-11-12T11:05:00.000Z",
+        "reference": "PAY-2024-FR-000123"
+      },
+      "createdAt": "2024-11-12T11:00:00.000Z",
+      "updatedAt": "2024-11-12T11:05:00.000Z"
+    }
+  ]
+}

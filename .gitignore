@@ -1,0 +1,20 @@
+# Environnement
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+
+# Données générées
+backend/data/docs/*.txt
+
+# Fichiers personnels
+Guide_Dev_PFE_SAV_IA_8Phases.docx
+ORNITH_INTEGRATION_NOTES.md
+remarque.txt
+backend/REMARQUES.md
+backend/update_remarques.py

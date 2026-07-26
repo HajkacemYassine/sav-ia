@@ -1,0 +1,933 @@
+{
+  "spareParts": [
+    {
+      "productCode": "82428763",
+      "productLabel": "COMPRESSORE SILEN 50L 2.6HP 2MOT STANLEY",
+      "parts": [
+        {
+          "id": "GEN1_LM_IT",
+          "code": "GEN1",
+          "ean": "0000000000001",
+          "label": "Parte di Ricambio Generica 1",
+          "approximatePrice": { "value": 0.01, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "0_LM_IT",
+              "code": "0",
+              "name": "Generic Supplier",
+              "supplierReference": "GEN1",
+              "unitPrice": { "value": 0.01, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=0000000000001&supplierCode=0" }
+          ],
+          "createdBy": { "fullName": null, "type": "AUTO" },
+          "creationDate": "2023-12-07T15:41:20.294Z",
+          "compatibilities": ["OTHER"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": null
+        },
+        {
+          "id": "GEN2_LM_IT",
+          "code": "GEN2",
+          "ean": "0000000000002",
+          "label": "Parte di Ricambio Generica 2",
+          "approximatePrice": { "value": 0.01, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "0_LM_IT",
+              "code": "0",
+              "name": "Generic Supplier",
+              "supplierReference": "GEN2",
+              "unitPrice": { "value": 0.01, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=0000000000002&supplierCode=0" }
+          ],
+          "createdBy": { "fullName": null, "type": "AUTO" },
+          "creationDate": "2023-12-07T15:41:21.275Z",
+          "compatibilities": ["OTHER"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": null
+        },
+        {
+          "id": "GEN3_LM_IT",
+          "code": "GEN3",
+          "ean": "0000000000003",
+          "label": "Parte di Ricambio Generica 3",
+          "approximatePrice": { "value": 0.01, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "0_LM_IT",
+              "code": "0",
+              "name": "Generic Supplier",
+              "supplierReference": "GEN3",
+              "unitPrice": { "value": 0.01, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=0000000000003&supplierCode=0" }
+          ],
+          "createdBy": { "fullName": null, "type": "AUTO" },
+          "creationDate": "2023-12-07T15:41:22.285Z",
+          "compatibilities": ["OTHER"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": null
+        }
+      ]
+    },
+    {
+      "productCode": "82116329",
+      "productLabel": "QUADRA LED 80X60 RETROILLUMINATO LED",
+      "parts": [
+        {
+          "id": "GEN1_LM_IT",
+          "code": "GEN1",
+          "ean": "0000000000001",
+          "label": "Parte di Ricambio Generica 1",
+          "approximatePrice": { "value": 0.01, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "0_LM_IT",
+              "code": "0",
+              "name": "Generic Supplier",
+              "supplierReference": "GEN1",
+              "unitPrice": { "value": 0.01, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=0000000000001&supplierCode=0" }
+          ],
+          "createdBy": { "fullName": null, "type": "AUTO" },
+          "creationDate": "2023-12-07T15:41:20.294Z",
+          "compatibilities": ["OTHER"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": null
+        },
+        {
+          "id": "GEN2_LM_IT",
+          "code": "GEN2",
+          "ean": "0000000000002",
+          "label": "Parte di Ricambio Generica 2",
+          "approximatePrice": { "value": 0.01, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "0_LM_IT",
+              "code": "0",
+              "name": "Generic Supplier",
+              "supplierReference": "GEN2",
+              "unitPrice": { "value": 0.01, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=0000000000002&supplierCode=0" }
+          ],
+          "createdBy": { "fullName": null, "type": "AUTO" },
+          "creationDate": "2023-12-07T15:41:21.275Z",
+          "compatibilities": ["OTHER"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": null
+        },
+        {
+          "id": "GEN3_LM_IT",
+          "code": "GEN3",
+          "ean": "0000000000003",
+          "label": "Parte di Ricambio Generica 3",
+          "approximatePrice": { "value": 0.01, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "0_LM_IT",
+              "code": "0",
+              "name": "Generic Supplier",
+              "supplierReference": "GEN3",
+              "unitPrice": { "value": 0.01, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=0000000000003&supplierCode=0" }
+          ],
+          "createdBy": { "fullName": null, "type": "AUTO" },
+          "creationDate": "2023-12-07T15:41:22.285Z",
+          "compatibilities": ["OTHER"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": null
+        }
+      ]
+    },
+    {
+      "productCode": "17882270",
+      "productLabel": "SPECCHIO UNIKE 80X80X20 PERLA",
+      "parts": [
+        {
+          "id": "364K4Z1CHW3218SEP_LM_IT",
+          "code": "364K4Z1CHW3218SEP",
+          "ean": "3276000608189",
+          "label": "SP - KIT4-POWER CABLE-105-106_3276000229308",
+          "approximatePrice": { "value": 7.2, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "DPDO",
+              "code": "DPDO",
+              "name": "DPDO",
+              "supplierReference": "364K4Z1CHW3218SEP",
+              "unitPrice": { "value": 3.6, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=3276000608189&supplierCode=DPDO" }
+          ],
+          "createdBy": { "fullName": "Automated", "type": "AUTO" },
+          "creationDate": "2023-04-26T19:49:21.098Z",
+          "compatibilities": ["EANPRODUCTCODE"],
+          "caracteristics": null,
+          "information": null
+        },
+        {
+          "id": "364K5Z1CHW3218SEP_LM_IT",
+          "code": "364K5Z1CHW3218SEP",
+          "ean": "0",
+          "label": "KIT5-ADDITIONNAL HANDLE-S102-S103-S104-S105-S106-S107",
+          "approximatePrice": { "value": 8.58, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "DPDO",
+              "code": "DPDO",
+              "name": "DPDO",
+              "supplierReference": "364K5Z1CHW3218SEP",
+              "unitPrice": { "value": 4.29, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=0&supplierCode=DPDO" }
+          ],
+          "createdBy": { "fullName": "Automated", "type": "AUTO" },
+          "creationDate": "2023-04-26T19:49:21.098Z",
+          "compatibilities": ["EANPRODUCTCODE"],
+          "caracteristics": null,
+          "information": null
+        },
+        {
+          "id": "4311Z1CHW3218SEP_LM_IT",
+          "code": "4311Z1CHW3218SEP",
+          "ean": "3276000607854",
+          "label": "SP - PCE01-FRONT COVER_3276000229308_",
+          "approximatePrice": { "value": 4.74, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "DPDO",
+              "code": "DPDO",
+              "name": "DPDO",
+              "supplierReference": "4311Z1CHW3218SEP",
+              "unitPrice": { "value": 2.37, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=3276000607854&supplierCode=DPDO" }
+          ],
+          "createdBy": { "fullName": "Automated", "type": "AUTO" },
+          "creationDate": "2023-04-26T19:50:06.376Z",
+          "compatibilities": ["EANPRODUCTCODE"],
+          "caracteristics": null,
+          "information": null
+        },
+        {
+          "id": "43183Z1CHW3218S_LM_IT",
+          "code": "43183Z1CHW3218S",
+          "ean": "3276000607830",
+          "label": "SP - PCE83-CARBON BRUSH X2_3276000229308_",
+          "approximatePrice": { "value": 4.94, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "DPDO",
+              "code": "DPDO",
+              "name": "DPDO",
+              "supplierReference": "43183Z1CHW3218S",
+              "unitPrice": { "value": 2.47, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=3276000607830&supplierCode=DPDO" }
+          ],
+          "createdBy": { "fullName": "Automated", "type": "AUTO" },
+          "creationDate": "2023-04-26T19:50:06.376Z",
+          "compatibilities": ["EANPRODUCTCODE"],
+          "caracteristics": null,
+          "information": null
+        },
+        {
+          "id": "43197Z1CHW3218SEP_LM_IT",
+          "code": "43197Z1CHW3218SEP",
+          "ean": "3276000608202",
+          "label": "SP - PCE97-SPEED SELECTOR_3276000229308_",
+          "approximatePrice": { "value": 4.84, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "DPDO",
+              "code": "DPDO",
+              "name": "DPDO",
+              "supplierReference": "43197Z1CHW3218SEP",
+              "unitPrice": { "value": 2.42, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=3276000608202&supplierCode=DPDO" }
+          ],
+          "createdBy": { "fullName": "Automated", "type": "AUTO" },
+          "creationDate": "2023-04-26T19:50:06.376Z",
+          "compatibilities": ["EANPRODUCTCODE"],
+          "caracteristics": null,
+          "information": null
+        },
+        {
+          "id": "431KIT1Z1CHW3218S_LM_IT",
+          "code": "431KIT1Z1CHW3218S",
+          "ean": "3276000607847",
+          "label": "SP - KIT1-OIL COVER-39-40-41_3276000229308_",
+          "approximatePrice": { "value": 4.64, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "DPDO",
+              "code": "DPDO",
+              "name": "DPDO",
+              "supplierReference": "431KIT1Z1CHW3218S",
+              "unitPrice": { "value": 2.32, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=3276000607847&supplierCode=DPDO" }
+          ],
+          "createdBy": { "fullName": "Automated", "type": "AUTO" },
+          "creationDate": "2023-04-26T19:50:06.380Z",
+          "compatibilities": ["EANPRODUCTCODE"],
+          "caracteristics": null,
+          "information": null
+        },
+        {
+          "id": "431KIT2Z1CHW3218S_LM_IT",
+          "code": "431KIT2Z1CHW3218S",
+          "ean": "3276000608226",
+          "label": "SP - KIT2-MODE SELECTOR-86-87-89-90-91-09_3276000229308_",
+          "approximatePrice": { "value": 5.9, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "DPDO",
+              "code": "DPDO",
+              "name": "DPDO",
+              "supplierReference": "431KIT2Z1CHW3218S",
+              "unitPrice": { "value": 2.95, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=3276000608226&supplierCode=DPDO" }
+          ],
+          "createdBy": { "fullName": "Automated", "type": "AUTO" },
+          "creationDate": "2023-04-26T19:50:06.381Z",
+          "compatibilities": ["EANPRODUCTCODE"],
+          "caracteristics": null,
+          "information": null
+        },
+        {
+          "id": "431KIT3Z1CHW3218S_LM_IT",
+          "code": "431KIT3Z1CHW3218S",
+          "ean": "3276000608219",
+          "label": "SP - KIT3-SWITCH-95-96_3276000229308_",
+          "approximatePrice": { "value": 6.28, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "DPDO",
+              "code": "DPDO",
+              "name": "DPDO",
+              "supplierReference": "431KIT3Z1CHW3218S",
+              "unitPrice": { "value": 3.14, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=3276000608219&supplierCode=DPDO" }
+          ],
+          "createdBy": { "fullName": "Automated", "type": "AUTO" },
+          "creationDate": "2023-04-26T19:50:06.382Z",
+          "compatibilities": ["EANPRODUCTCODE"],
+          "caracteristics": null,
+          "information": null
+        },
+        {
+          "id": "431S101Z1CHW3218SE_LM_IT",
+          "code": "431S101Z1CHW3218SE",
+          "ean": "3276000608196",
+          "label": "SP - PCE_S101-DEPTH GAUGE_3276000229308_",
+          "approximatePrice": { "value": 4.68, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "DPDO",
+              "code": "DPDO",
+              "name": "DPDO",
+              "supplierReference": "431S101Z1CHW3218SE",
+              "unitPrice": { "value": 2.34, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=3276000608196&supplierCode=DPDO" }
+          ],
+          "createdBy": { "fullName": "Automated", "type": "AUTO" },
+          "creationDate": "2023-04-26T19:50:07.832Z",
+          "compatibilities": ["EANPRODUCTCODE"],
+          "caracteristics": null,
+          "information": null
+        },
+        {
+          "id": "GEN1_LM_IT",
+          "code": "GEN1",
+          "ean": "0000000000001",
+          "label": "Parte di Ricambio Generica 1",
+          "approximatePrice": { "value": 0.01, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "0_LM_IT",
+              "code": "0",
+              "name": "Generic Supplier",
+              "supplierReference": "GEN1",
+              "unitPrice": { "value": 0.01, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=0000000000001&supplierCode=0" }
+          ],
+          "createdBy": { "fullName": null, "type": "AUTO" },
+          "creationDate": "2023-12-07T15:41:20.294Z",
+          "compatibilities": ["OTHER"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": null
+        },
+        {
+          "id": "GEN2_LM_IT",
+          "code": "GEN2",
+          "ean": "0000000000002",
+          "label": "Parte di Ricambio Generica 2",
+          "approximatePrice": { "value": 0.01, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "0_LM_IT",
+              "code": "0",
+              "name": "Generic Supplier",
+              "supplierReference": "GEN2",
+              "unitPrice": { "value": 0.01, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=0000000000002&supplierCode=0" }
+          ],
+          "createdBy": { "fullName": null, "type": "AUTO" },
+          "creationDate": "2023-12-07T15:41:21.275Z",
+          "compatibilities": ["OTHER"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": null
+        },
+        {
+          "id": "GEN3_LM_IT",
+          "code": "GEN3",
+          "ean": "0000000000003",
+          "label": "Parte di Ricambio Generica 3",
+          "approximatePrice": { "value": 0.01, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "0_LM_IT",
+              "code": "0",
+              "name": "Generic Supplier",
+              "supplierReference": "GEN3",
+              "unitPrice": { "value": 0.01, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=0000000000003&supplierCode=0" }
+          ],
+          "createdBy": { "fullName": null, "type": "AUTO" },
+          "creationDate": "2023-12-07T15:41:22.285Z",
+          "compatibilities": ["OTHER"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": null
+        }
+      ]
+    },
+    {
+      "productCode": "13759091",
+      "productLabel": "CAT.KOMAR A LA ROSE 368X254",
+      "parts": [
+        {
+          "id": "0001_LM_IT",
+          "code": "0001",
+          "ean": "4512",
+          "label": "PLM145",
+          "approximatePrice": { "value": 11, "currency": null },
+          "suppliers": [
+            {
+              "id": "204824_LM_IT",
+              "code": "204824",
+              "name": "TEST AUTO 051",
+              "supplierReference": null,
+              "unitPrice": { "value": 5.00, "currency": null },
+              "freeUnderWarranty": false
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=4512&supplierCode=204824" }
+          ],
+          "createdBy": { "fullName": "test-qa u-a", "type": "ADMIN" },
+          "creationDate": "2025-12-15T14:40:35.231Z",
+          "compatibilities": ["PRODUCTCODE"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": "info \tPLM145"
+        },
+        {
+          "id": "000255255_LM_IT",
+          "code": "000255255",
+          "ean": "6599898989",
+          "label": "testSparePart",
+          "approximatePrice": { "value": 20, "currency": "PLN" },
+          "suppliers": [
+            {
+              "id": "315_LM_IT",
+              "code": "315",
+              "name": "***DOLLMAR S.R.L.",
+              "supplierReference": null,
+              "unitPrice": { "value": 12.6, "currency": "EUR" },
+              "freeUnderWarranty": true
+            },
+            {
+              "id": "618_LM_IT",
+              "code": "618",
+              "name": "***ETS CHAPUIS JEAN(CDOCK)",
+              "supplierReference": null,
+              "unitPrice": { "value": 12, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=6599898989&supplierCode=315" }
+          ],
+          "createdBy": { "fullName": "Yasmine ZAGHDENE", "type": "ADMIN" },
+          "creationDate": "2025-03-24T13:02:52.560Z",
+          "compatibilities": ["PRODUCTCODE"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": "info"
+        },
+        {
+          "id": "056_LM_IT",
+          "code": "056",
+          "ean": "02233",
+          "label": "testIT",
+          "approximatePrice": { "value": 4.0, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "160_LM_IT",
+              "code": "160",
+              "name": "MOTTEZ SAS (X-DOCK)",
+              "supplierReference": null,
+              "unitPrice": { "value": 925.0, "currency": "EUR" },
+              "freeUnderWarranty": false
+            },
+            {
+              "id": "2559_LM_IT",
+              "code": "2559",
+              "name": "SIKA ITALIA SPA (X-DOCK)",
+              "supplierReference": null,
+              "unitPrice": { "value": 3.0, "currency": "EUR" },
+              "freeUnderWarranty": false
+            },
+            {
+              "id": "611_LM_IT",
+              "code": "611",
+              "name": "***V33 ITALIA/LIB. (X-DOCK)",
+              "supplierReference": null,
+              "unitPrice": { "value": 25.0, "currency": "EUR" },
+              "freeUnderWarranty": false
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=02233&supplierCode=160" }
+          ],
+          "createdBy": { "fullName": "Yasmine ZAGHDENE", "type": "ADMIN" },
+          "creationDate": "2024-12-02T08:46:18.871Z",
+          "compatibilities": ["PRODUCTCODE"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": null
+        },
+        {
+          "id": "111111_LM_IT",
+          "code": "111111",
+          "ean": "112212",
+          "label": "test111",
+          "approximatePrice": { "value": 16, "currency": "PLN" },
+          "suppliers": [
+            {
+              "id": "203851_LM_IT",
+              "code": "203851",
+              "name": "TEST ML",
+              "supplierReference": "111222",
+              "unitPrice": { "value": 12.00, "currency": "PLN" },
+              "freeUnderWarranty": false
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=112212&supplierCode=203851" }
+          ],
+          "createdBy": { "fullName": "Yasmine ZAGHDENE", "type": "ADMIN" },
+          "creationDate": "2025-12-04T08:56:27.589Z",
+          "compatibilities": ["PRODUCTCODE"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": null
+        },
+        {
+          "id": "11852_LM_IT",
+          "code": "11852",
+          "ean": "undefined",
+          "label": "DADO DELLA CELLA ELETTROLITICA",
+          "approximatePrice": { "value": 0, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "205053",
+              "code": "205053",
+              "name": "UNITEX ITALIA SRL",
+              "supplierReference": "11852",
+              "unitPrice": { "value": 0, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=undefined&supplierCode=205053" }
+          ],
+          "createdBy": { "fullName": "Automated", "type": "AUTO" },
+          "creationDate": "2023-04-26T15:54:17.758Z",
+          "compatibilities": ["PROVIDERCODE", "PRODUCTCODE"],
+          "caracteristics": null,
+          "information": "info 2 pour 11852"
+        },
+        {
+          "id": "44554547_LM_IT",
+          "code": "44554547",
+          "ean": "4452212236556",
+          "label": "testSparePart",
+          "approximatePrice": { "value": 10, "currency": "PLN" },
+          "suppliers": [
+            {
+              "id": "14_LM_IT",
+              "code": "14",
+              "name": "supp014",
+              "supplierReference": "2",
+              "unitPrice": { "value": 2.00, "currency": "EUR" },
+              "freeUnderWarranty": true
+            },
+            {
+              "id": "611_LM_IT",
+              "code": "611",
+              "name": "***V33 ITALIA/LIB. (X-DOCK)",
+              "supplierReference": null,
+              "unitPrice": { "value": 3, "currency": "PLN" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=4452212236556&supplierCode=14" }
+          ],
+          "createdBy": { "fullName": "Yasmine ZAGHDENE", "type": "ADMIN" },
+          "creationDate": "2025-07-02T14:31:40.338Z",
+          "compatibilities": ["PRODUCTCODE"],
+          "terminology": { "ray": "Rayon1", "subRay": "SousRayon1", "type": "Type1", "subType": "SousType1", "segment": "" },
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": "testtt"
+        },
+        {
+          "id": "7414_LM_IT",
+          "code": "7414",
+          "ean": "74414414",
+          "label": "SP001",
+          "approximatePrice": { "value": 15, "currency": "PLN" },
+          "suppliers": [
+            {
+              "id": "14_LM_IT",
+              "code": "14",
+              "name": "supp014",
+              "supplierReference": null,
+              "unitPrice": { "value": 12, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=74414414&supplierCode=14" }
+          ],
+          "createdBy": { "fullName": "Yasmine ZAGHDENE", "type": "ADMIN" },
+          "creationDate": "2024-07-09T15:16:57.450Z",
+          "compatibilities": ["PRODUCTCODE"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": "test"
+        },
+        {
+          "id": "EG020002FA_LM_IT",
+          "code": "EG020002FA",
+          "ean": "9010527177988",
+          "label": "Anello portalampada E27 rame",
+          "approximatePrice": { "value": 0, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "302435",
+              "code": "302435",
+              "name": "EGLO ITALIANA SRL (X-DOCK)",
+              "supplierReference": "EG020002FA",
+              "unitPrice": { "value": 2.1, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=9010527177988&supplierCode=302435" }
+          ],
+          "createdBy": { "fullName": "Automated", "type": "AUTO" },
+          "creationDate": "2023-05-05T09:49:52.140Z",
+          "compatibilities": ["PRODUCTCODE"],
+          "caracteristics": null,
+          "information": null
+        },
+        {
+          "id": "GEN1_LM_IT",
+          "code": "GEN1",
+          "ean": "0000000000001",
+          "label": "Parte di Ricambio Generica 1",
+          "approximatePrice": { "value": 0.01, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "0_LM_IT",
+              "code": "0",
+              "name": "Generic Supplier",
+              "supplierReference": "GEN1",
+              "unitPrice": { "value": 0.01, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=0000000000001&supplierCode=0" }
+          ],
+          "createdBy": { "fullName": null, "type": "AUTO" },
+          "creationDate": "2023-12-07T15:41:20.294Z",
+          "compatibilities": ["OTHER"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": null
+        },
+        {
+          "id": "GEN2_LM_IT",
+          "code": "GEN2",
+          "ean": "0000000000002",
+          "label": "Parte di Ricambio Generica 2",
+          "approximatePrice": { "value": 0.01, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "0_LM_IT",
+              "code": "0",
+              "name": "Generic Supplier",
+              "supplierReference": "GEN2",
+              "unitPrice": { "value": 0.01, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=0000000000002&supplierCode=0" }
+          ],
+          "createdBy": { "fullName": null, "type": "AUTO" },
+          "creationDate": "2023-12-07T15:41:21.275Z",
+          "compatibilities": ["OTHER"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": null
+        },
+        {
+          "id": "GEN3_LM_IT",
+          "code": "GEN3",
+          "ean": "0000000000003",
+          "label": "Parte di Ricambio Generica 3",
+          "approximatePrice": { "value": 0.01, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "0_LM_IT",
+              "code": "0",
+              "name": "Generic Supplier",
+              "supplierReference": "GEN3",
+              "unitPrice": { "value": 0.01, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=0000000000003&supplierCode=0" }
+          ],
+          "createdBy": { "fullName": null, "type": "AUTO" },
+          "creationDate": "2023-12-07T15:41:22.285Z",
+          "compatibilities": ["OTHER"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": null
+        },
+        {
+          "id": "V964 16 TR_LM_IT",
+          "code": "V964 16 TR",
+          "ean": "V964 16 TR",
+          "label": "VETRO",
+          "approximatePrice": { "value": 17.3, "currency": "PLN" },
+          "suppliers": [
+            {
+              "id": "201400",
+              "code": "201400",
+              "name": "NOVECENTO SRL (X-DOCK)",
+              "supplierReference": "V964 16 TR",
+              "unitPrice": { "value": 8.65, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=V964%2016%20TR&supplierCode=201400" }
+          ],
+          "createdBy": { "fullName": "Yasmine ZAGHDENE", "type": "ADMIN" },
+          "creationDate": "2023-04-26T15:58:44.390Z",
+          "compatibilities": ["PRODUCTCODE"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": null
+        },
+        {
+          "id": "VETRI PICCOLO PER 858/16, KIT_LM_IT",
+          "code": "VETRI PICCOLO PER 858/16, KIT",
+          "ean": "1",
+          "label": "VETRI PICCOLO PER 858/16, KIT",
+          "approximatePrice": { "value": 0, "currency": null },
+          "suppliers": [],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=1" }
+          ],
+          "createdBy": { "fullName": "Yasmine ZAGHDENE", "type": "ADMIN" },
+          "creationDate": "2023-12-07T15:35:57.438Z",
+          "compatibilities": ["PRODUCTCODE"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": null
+        },
+        {
+          "id": "ref41452_LM_IT",
+          "code": "ref41452",
+          "ean": "110",
+          "label": "test01",
+          "approximatePrice": { "value": 10, "currency": "PLN" },
+          "suppliers": [
+            {
+              "id": "160_LM_IT",
+              "code": "160",
+              "name": "MOTTEZ SAS (X-DOCK)",
+              "supplierReference": null,
+              "unitPrice": { "value": 6.00, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=110&supplierCode=160" }
+          ],
+          "createdBy": { "fullName": "Yasmine ZAGHDENE", "type": "ADMIN" },
+          "creationDate": "2025-09-08T10:24:32.531Z",
+          "compatibilities": ["PRODUCTCODE"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": null
+        }
+      ]
+    },
+    {
+      "productCode": "17883575",
+      "productLabel": "TRAP AVV 18V 1.3AH 2BL VAL BS 18",
+      "parts": [
+        {
+          "id": "GEN1_LM_IT",
+          "code": "GEN1",
+          "ean": "0000000000001",
+          "label": "Parte di Ricambio Generica 1",
+          "approximatePrice": { "value": 0.01, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "0_LM_IT",
+              "code": "0",
+              "name": "Generic Supplier",
+              "supplierReference": "GEN1",
+              "unitPrice": { "value": 0.01, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=0000000000001&supplierCode=0" }
+          ],
+          "createdBy": { "fullName": null, "type": "AUTO" },
+          "creationDate": "2023-12-07T15:41:20.294Z",
+          "compatibilities": ["OTHER"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": null
+        },
+        {
+          "id": "GEN2_LM_IT",
+          "code": "GEN2",
+          "ean": "0000000000002",
+          "label": "Parte di Ricambio Generica 2",
+          "approximatePrice": { "value": 0.01, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "0_LM_IT",
+              "code": "0",
+              "name": "Generic Supplier",
+              "supplierReference": "GEN2",
+              "unitPrice": { "value": 0.01, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=0000000000002&supplierCode=0" }
+          ],
+          "createdBy": { "fullName": null, "type": "AUTO" },
+          "creationDate": "2023-12-07T15:41:21.275Z",
+          "compatibilities": ["OTHER"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": null
+        },
+        {
+          "id": "GEN3_LM_IT",
+          "code": "GEN3",
+          "ean": "0000000000003",
+          "label": "Parte di Ricambio Generica 3",
+          "approximatePrice": { "value": 0.01, "currency": "EUR" },
+          "suppliers": [
+            {
+              "id": "0_LM_IT",
+              "code": "0",
+              "name": "Generic Supplier",
+              "supplierReference": "GEN3",
+              "unitPrice": { "value": 0.01, "currency": "EUR" },
+              "freeUnderWarranty": true
+            }
+          ],
+          "images": [
+            { "fullUrl": "https://apigw.rec.platana.fr/spare-part-api/v2/spare-parts/image?gtin=0000000000003&supplierCode=0" }
+          ],
+          "createdBy": { "fullName": null, "type": "AUTO" },
+          "creationDate": "2023-12-07T15:41:22.285Z",
+          "compatibilities": ["OTHER"],
+          "caracteristics": { "weight": null, "height": null, "width": null, "length": null },
+          "information": null
+        }
+      ]
+    }
+  ]
+}
