@@ -10,7 +10,10 @@ __pycache__/
 .venv/
 
 # Données générées
-backend/data/docs/*.txt
+backend/data/uploads/
+
+# IDE
+.vscode/
 
 # Fichiers personnels
 Guide_Dev_PFE_SAV_IA_8Phases.docx
